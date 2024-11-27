@@ -1,4 +1,5 @@
 <h1 align="center" id="title">Proyecto de Interactividad en el DOM</h1>
+<h2>Por Matías Mele Farré</h2>
 
 <p id="description">Este proyecto es una <b>tarea del curso de Desarrollo Web Front End</b> del centro de E-Learning de UTN. El objetivo de esta tarea es <b>interactuar con el DOM de un sitio web</b> trabajando sobre un anterior trabajo enfocado en convertir el diseño de un sitio en "responsivo". Esta vez debimos aplicar funciones con Javascript, y modificar el código HTML y CSS donde fuera necesario para modificar elementos existentes o crear nuevos.</p>
 
